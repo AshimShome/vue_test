@@ -1,5 +1,16 @@
 # test
 
+#npm+install+--loglevel+error+--legacy-peer-deps
+
+ npm config set registry="http://registry.npmjs.org/"
+ 
+ #Global Installation
+ 
+ npm install -g @vue/cli
+# Vue install
+
+vue create my-project
+
 ## Project setup
 ```
 npm install
