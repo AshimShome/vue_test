@@ -1,6 +1,6 @@
 # test
 
-#npm+install+--loglevel+error+--legacy-peer-deps
+#npm install log level error legacy peer deps
 
  npm config set registry="http://registry.npmjs.org/"
  
