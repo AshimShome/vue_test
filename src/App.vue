@@ -12,7 +12,7 @@ import ContactPage from './components/Contact.vue'
 
 export default {
   name: 'App',
-  components: {
+  components: {             
     HelloWorld,
     HomePage,
     ContactPage
